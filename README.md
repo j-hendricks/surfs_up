@@ -13,23 +13,23 @@ Below are the statistics for June and December temperatures. The histograms illu
 
 ### June Data
 
-![summary_june](summary_june.png)
+![summary_june](Resources/summary_june.png)
 
-![hist_june](hist_june.png)
+![hist_june](Resources/hist_june.png)
 
 ### December Data
 
-![summary_dec](summary_dec.png)
+![summary_dec](Resources/summary_dec.png)
 
-![hist_dec](hist_dec.png)
+![hist_dec](Resources/hist_dec.png)
 
 ### Flask
 
 Here is a screenshot of the homepage. If the precipitation extention is added to the browser, the webpage containing the precipitation data is opened. 
 
-![homepage](homepage.png)
+![homepage](Resources/homepage.png)
 
-![precipitation](precipitation.png)
+![precipitation](Resources/precipitation.png)
 
 ## Conclusion
 
