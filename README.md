@@ -9,7 +9,7 @@ The data was loaded into jupyter notebook from a SQLite database. From there, th
 
 ## Results
 
-Below are the statistics for June and December temperatures. The histograms illustrate that the majority of temperatures are within 65-85 degrees, which is just what we will need for the ice cream shop. Since this data is based on over a 1,000 observations made over several year, we can trust that this data is reliable and will remain this way for years to come. 
+Below are the statistics for June and December temperatures. The histograms illustrate that the majority of temperatures are within 65-85 degrees, which is just what we will need for the ice cream shop. Since this data is based on over a 1,000 observations made over several years, we can trust that this data is reliable and will remain this way for years to come. 
 
 ### June Data
 
@@ -29,7 +29,7 @@ Here is a screenshot of the homepage. If the precipitation extention is added to
 
 ![homepage](Resources/homepage.png)
 
-![precipitation](Resources/precipitation.png)
+![Precipitation](Resources/Precipitation.png)
 
 ## Conclusion
 
