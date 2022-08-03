@@ -1,5 +1,5 @@
 # surfs_up
-Using Python, Jupyter Notebook, SQLite, Flask
+Using Python, Jupyter Notebook, SQLite, Flask, SQLAlchemy
 
 ## Overview
 
@@ -22,6 +22,18 @@ Below are the statistics for June and December temperatures. The histograms illu
 ![summary_dec](Resources/summary_dec.png)
 
 ![hist_dec](Resources/hist_dec.png)
+
+### Precipitation Data
+
+The precipitation data is summarized in three images below. The table shows that the mean is roughly 0.2 mm. This is a low number for precipitation. Notice that the standard deviation is almost 3 times that of the mean. This tells us that there are large fluctuations in the precipitation levels. Since the count is over 2,000 measurements, the data is a reliable sample of the weather.
+
+The histogram visualizes the table, and shows us that the vast majority of the measurements are low. In the time series plot, the high levels of precipitation occur each year, but the time of year appears to be random. The "Surf n' Shake" shop will have a few rainy days each year, but not enough to prevent the shop's success.
+
+![precip_table](Resources/precipitation_table.png)
+
+![precip_hist](Resources/precipitation_hist.png)
+
+![precip_time_series](Resources/precipitation_time_series.png)
 
 ### Flask
 
